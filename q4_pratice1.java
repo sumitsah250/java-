@@ -9,6 +9,5 @@ public class q4_pratice1{
     System.out.print("hello ");
     System.out.print(str);
     System.out.print(",have a nice day");
-
 }
 }
