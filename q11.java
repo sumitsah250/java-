@@ -7,8 +7,8 @@ public class q11 {
         // }
         // System.out.println("the sum of marks is ");
         // System.out.println(sum);
-
         // }
+        // Araylist<String> arrlanguage = new Arraylist<>();
         int[][] arr1 = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
         int[][] arr2 = { { 1, 2 }, { 3, 4 }, { 5, 6 } };
         for (int i = 0; i < arr1.length; i++) {
