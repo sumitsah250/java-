@@ -20,6 +20,6 @@ public class q8 {
         System.out.println(name.indexOf("s",0));//tells the index of given char or string // start searching 0 position //
         System.out.println(name.equals("sumit"));
         System.out.println(name.equalsIgnoreCase("sumit"));
-        System.out.println(name.indexOf('s'));
+        System.out.println(name.indexOf('s'));3
              }
 }
